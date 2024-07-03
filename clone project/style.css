@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    border: border-box;
+    font-family: Arial;
+}.navbar {
+    height: 80px;
+    background-color:white;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.logo {
+    background-image: url(myntral_logo.png);
+    background-size: cover;
+    height: 60px;
+    width: 100px;
+    align-items: center;
+}
+.menu p{
+    display: inline;
+    margin: 15px;
+    font-size:smaller;
+    font-weight: bold;
+
+}
+Sup {
+    color: #e32020f4;
+    font-size: smaller;
+}
+.search {
+    background-color: #efececec;
+    border-radius: 4px;
+   
+}
+.search input {
+    width: 500px;
+    height:35px;
+    border-top-left-radius:4px;
+    border-bottom-left-radius:4px;
+    border: none;
+    background-color: #efececec;
+    
+}
+.search i {
+    padding-left: 5px;
+}
+.profile i {
+    padding-left:10px ;
+}
+.profile p {
+    font-size: smaller;
+    font-weight: bold;
+    margin-top: 3px;
+}
+.wishlist i {
+    padding-left: 10px;
+}
+.wishlist p {
+    font-size: smaller;
+    font-weight: bold;
+    margin-top: 3px;
+}
+.bag i {
+    padding-left: 10px;
+}
+.bag p {
+    font-size: smaller;
+    font-weight: bold;
+    margin-top: 3px;
+}
+    
+.hero {
+    background-image: url(Hero_image.png);
+    background-size: cover;
+    height:550px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;  
+}
+.co h1 {
+    color: hsl(206, 85%, 39%);
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+}
+.coupan {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    padding-right: 20px;
+    padding-top: 20px;
+    
+}
+.coupanimage {
+    background-image: url(coupan.webp);
+    background-size: cover;
+    height:150px;
+    width: 50%;   
+}
+.crazy {
+    background-image: url(crazy.png);
+    background-size: cover;
+    height: 180px;
+}
+.shop {
+    display: flex;
+    background-color: skyblue;
+    justify-content:space-evenly;
+    margin-top: 20px;
+    
+    
+}
+.box {
+    height: 500px;
+    width: 25%;
+       padding: 20px 10px 15px;
+       background-color: white;
+}
+.box1 {
+    background-image: url(image1.png);
+    background-size: cover  ;
+    height: 480px;
+
+}
+.box2 {
+    background-image: url(image2.png);
+    background-size: cover  ;
+    height: 480px;
+}
+.box3 {
+    background-image: url(image3.png);
+    background-size: cover  ;
+    height: 480px;
+}
+.box4 {
+    background-image: url(image4.png);
+    background-size: cover  ;
+    height: 480px;
+}
+.ctg {
+    background-color: white;
+    height: 400px;
+    display: flex;
+    
+}
+.ctg1 h1 {
+    color: hsl(206, 85%, 39%);
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 50px;
+}
+.bomb {
+    
+    height: 400px;
+    width: 20%;
+       background-color: white;
+      
+}
+.box5 {
+    background-image: url(image5.png);
+    background-size: cover  ;
+    height: 400px;
+}
+.box6 {
+    background-image: url(image6.png);
+    background-size: cover  ;
+    height: 400px;
+}
+.box7 {
+    background-image: url(image7.png);
+    background-size: cover  ;
+    height: 400px;
+}
+.box8 {
+    background-image: url(image8.png);
+    background-size: cover  ;
+    height: 400px;
+
+}
+.box9 {
+    background-image: url(image9.png);
+    background-size: cover  ;
+    height: 400px;
+}
+.ctg2 {
+    display: flex;
+} 
+.lastimage {
+    height: 300px;
+    width: 100%;
+}
+.last {
+    background-image: url(last.png);
+    background-size: cover;
+    height: 250px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+.bom {height: 400px;
+    width: 25%;
+   background-color: white;
+}
+.ctg3 {
+    display: flex;
+    margin-left: 300px;
+    
+}
+.list1 {
+    height: 400px;
+    background-color: rgb(240, 238, 238);
+    
+
+}
+.list {
+    justify-content: space-evenly;
+    display: flex;
+    
+    
+}
+.list a {
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+
+}
+.list p {
+    margin-bottom: 30px;
+    font-size: 0.85rem; 
+    font-weight: bold;
+}
+ul {
+    margin-top: 25px;
+}
+.copywrite {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 25px;
+    font-size: 0.90rem;
+}
+.copywrite span {
+    color: blue;
+}
+
+
+
+
+
+
+
+    
